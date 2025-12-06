@@ -127,7 +127,8 @@ ISC License - See [LICENSE](LICENSE) file for details.
 
 ## Monitoring tool
 
-I've also developed a monitoring bot for Polymarket built with **Rust** - it's a useful tool for tracking and analyzing market activity.\n
+I've also developed a monitoring bot for Polymarket built with **Rust** - it's a useful tool for tracking and analyzing market activity.
+
 <img width="1674" height="937" alt="image (20)" src="https://github.com/user-attachments/assets/99d1301a-9426-45af-973d-f647434c704a" />
 
 Demo: https://www.youtube.com/watch?v=qgdRd8X-oHM
